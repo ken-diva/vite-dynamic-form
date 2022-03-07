@@ -16,6 +16,7 @@ note\*
 - ini belum pake css sama sekali. kedepannya mungkin ditambahin (ga janji tapi)
 - disini `noImplicitAny` typescriptnya di set `false` jadi dibagian `hapusTodo(todo)`, todo nya ada titik2 kecil-nya.
 - ketik ini untuk buat sub branch untuk keperluan deploy
-  - git subtree push --prefix dist origin 'nama_branch'
+  - `git subtree push --prefix dist origin 'nama_branch'`
+  - jangan lupa, bagian `dist` di `.gitignore` nya di komen dulu
 
 -- 7 Maret 2022
