@@ -4,7 +4,7 @@ Aplikasi ini fungsinya untuk contoh _Dynamic Form_ , jadi kalau diklik tombol ta
 
 Fitur ini yang disebut _dynamic_ . Selebihnya, sama seperti form biasa. Hasil yg diinput langsung tampil pada list dibawahnya.
 
-Ceknya [disini]() :+1:
+Ceknya [disini](https://ken-diva.github.io/vite-dynamic-form/) :+1:
 
 Kalau baru clone, jalanin
 
